@@ -13,7 +13,7 @@
 
     d. [Image Augementation Dataset Available !!](https://www.kaggle.com/competitions/hubmap-organ-segmentation/discussion/335064)
   
-  
+## Tips:
 2. [Apparently local validation is next to impossible in this competition](https://www.kaggle.com/competitions/hubmap-organ-segmentation/discussion/337489)
 3. [My first impressions @gunesevitan](https://www.kaggle.com/competitions/hubmap-organ-segmentation/discussion/336472)
 4. [**CV vs LB**](https://www.kaggle.com/competitions/hubmap-organ-segmentation/discussion/333631)
@@ -21,6 +21,11 @@
 6. [Some Insights @yassinealouini](https://www.kaggle.com/competitions/hubmap-organ-segmentation/discussion/333389)
 7. [Previous HuBMAP - Solutions summary thread](https://www.kaggle.com/competitions/hubmap-organ-segmentation/discussion/332664)
 8. [Decompose image to tiles?](https://www.kaggle.com/competitions/hubmap-organ-segmentation/discussion/333614)
+9. [Lung Most Difficult Organ Category to Segment?](https://www.kaggle.com/competitions/hubmap-organ-segmentation/discussion/334220)
+10. [Ways to work with small number of training samples](https://www.kaggle.com/competitions/hubmap-organ-segmentation/discussion/332786)
+11. [HuBMAP + HPA Starter kit](https://www.kaggle.com/competitions/hubmap-organ-segmentation/discussion/332921)
+
+
 
 
 n. Data Quality:
