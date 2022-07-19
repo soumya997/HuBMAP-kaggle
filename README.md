@@ -28,12 +28,12 @@
 
 
 
-n. Data Quality:
+## n. Data Quality:
 1. [Understanding the Different Tissue Stains](https://www.kaggle.com/competitions/hubmap-organ-segmentation/discussion/333704)
 2. [Poor / Inconsistent Annotations](https://www.kaggle.com/competitions/hubmap-organ-segmentation/discussion/332958)
 3. [Augmentation with Generated Artifacts](https://www.kaggle.com/competitions/hubmap-organ-segmentation/discussion/334363)
 4. [is this a mistake ? 6.263 µm for prostate](https://www.kaggle.com/competitions/hubmap-organ-segmentation/discussion/333552)
 
 
-m.Competition Related:
+## m.Competition Related:
 1. [is there going to be a problem? HPA data and HuBMAP data](https://www.kaggle.com/competitions/hubmap-organ-segmentation/discussion/332714)
