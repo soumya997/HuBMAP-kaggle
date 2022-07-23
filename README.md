@@ -10,5 +10,5 @@
 
 ## TODOs:
 - [X] Fix Training loop [deadline: 22/07/22] [done: 23/07]
-- [ ] Train on image patches
+- [ ] Train on image patches [deadline: 24/07]
 - [ ] Figure out using MMseg
