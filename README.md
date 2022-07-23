@@ -13,6 +13,8 @@
     c. `Main 2: TRAIN + INFER` https://www.kaggle.com/code/carnozhao/uwmgit-mmsegmentation-end-to-end-submission
   
     d.  `INFER` https://www.kaggle.com/code/p4rallax/uwmgit-mmsegmentation-inference
+    
+    e. https://mmsegmentation.readthedocs.io/en/latest/model_zoo.html
 
 ## TODOs:
 - [X] Fix Training loop [deadline: 22/07/22]
