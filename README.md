@@ -5,6 +5,8 @@
 2. Try tiling image segmentation
 3. Integrate [`SMP`](https://segmentation-modelspytorch.readthedocs.io/en/latest/)
 4. Train SegFormer with MMseg
+5. Try Cellpose
+6. Try Unet++ w/ different backbones.
 
 ## TODOs:
 - [X] Fix Training loop [deadline: 22/07/22] [done: 23/07]
