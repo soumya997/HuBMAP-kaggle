@@ -7,6 +7,7 @@
 4. Train SegFormer with MMseg
 5. Try Cellpose
 6. Try Unet++ w/ different backbones.
+7. Look into stain transforms
 
 ## TODOs:
 - [X] Fix Training loop [deadline: 22/07/22] [done: 23/07]
