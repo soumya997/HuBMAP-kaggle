@@ -14,3 +14,8 @@
 - [ ] Train on image patches [deadline: 24/07]
 - [ ] Figure out using MMseg
 - [ ] Check Dice score implimentation from [here](https://www.kaggle.com/code/p4rallax/hubmap-hpa-pytorch-baseline-w-tiles-stratifiedkf)
+
+
+
+## Random:
+- virtual env at `/home/lakshita/somusan/hubmap_kaggle` of python 3.7.0
