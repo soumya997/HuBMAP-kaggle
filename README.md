@@ -8,6 +8,9 @@
 5. Try Cellpose
 6. Try Unet++ w/ different backbones.
 7. Look into stain transforms
+8. create a nb to plot all images at the same place
+9. create NB to inference one or many images with all the model weights.
+
 
 ## TODOs:
 - [X] Fix Training loop [deadline: 22/07/22] [done: 23/07]
