@@ -8,6 +8,7 @@
   - bigger image
   - try multiclass training
   - try effnet-b4
+  - change loss
 
 ## Ideas:
 1. Try [`Monai`](https://github.com/Project-MONAI/MONAI)
