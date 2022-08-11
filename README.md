@@ -9,6 +9,7 @@
   - try multiclass training
   - try effnet-b4
   - change loss
+  - add lable smoothing
 
 ## Ideas:
 1. Try [`Monai`](https://github.com/Project-MONAI/MONAI)
