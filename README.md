@@ -10,6 +10,7 @@
   - try effnet-b4
   - change loss
   - add lable smoothing
+  - we can change backbone and stuff, but what can we do technique wise.
 
 ## Ideas:
 1. Try [`Monai`](https://github.com/Project-MONAI/MONAI)
