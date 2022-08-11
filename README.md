@@ -1,5 +1,14 @@
 # HuBMAP-kaggle
 
+## TODO [today: 11-08-22]
+- **EXHAUSTE ONE MODEL**
+  - try pretrained
+  - try not pretrained
+  - use LR schedule
+  - bigger image
+  - try multiclass training
+  - try effnet-b4
+
 ## Ideas:
 1. Try [`Monai`](https://github.com/Project-MONAI/MONAI)
 2. Try tiling image segmentation
