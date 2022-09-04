@@ -1,5 +1,9 @@
 # HuBMAP-kaggle
 
+# Model Weight dataset Link
+- https://www.kaggle.com/datasets/soumya9977/hubmap-coat-512-weights [coatnet-small-aux5-512-fold3]
+
+
 ## TODO [today: 11-08-22]
 - **EXHAUSTE ONE MODEL**
   - try pretrained
@@ -34,3 +38,4 @@
 
 ## Random:
 - virtual env at `/home/lakshita/somusan/hubmap_kaggle` of python 3.7.0
+
